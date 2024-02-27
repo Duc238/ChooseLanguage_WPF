@@ -1,0 +1,42 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib"
+                    xmlns:local="clr-namespace:Quan_Ly_Ban_Hang.Resource">
+
+  <ImageBrush  x:Key="btnLoginImgIdle" ImageSource="/Images/VN/bt_login.png"/>
+  <ImageBrush  x:Key="btnLoginImgHover" ImageSource="/Images/VN/bt_login_1.png"/>
+  <ImageBrush x:Key="btnLoginImgClick" ImageSource="/Images/VN/bt_login_2.png"/>
+
+  <system:String x:Key="close">Đóng</system:String>
+  <system:String x:Key="login">Đăng nhập</system:String>
+  <system:String x:Key="useNamerHint">Tài khoản</system:String>
+  <system:String x:Key="passwordHint">Mật khẩu</system:String>
+  <system:String x:Key="rememberMe">Nhớ tài khoản</system:String>
+  <system:String x:Key="loginButton">Đăng nhập</system:String>
+  <system:String x:Key="createAccount">Tạo tài khoản</system:String>
+  <system:String x:Key="forgetPassword">Quên mật khẩu</system:String>
+  <system:String x:Key="mainTitle">Champion online - Lập trình bởi Kteam</system:String>
+  <system:String x:Key="register">Đăng kí</system:String>
+  <system:String x:Key="registerBaner">Tạo tài khoản</system:String>
+  <system:String x:Key="registerCheckBoxPrivacy">Tôi trên 18 tuổi và tôi đồng ý những</system:String>
+  <system:String x:Key="registerTermAndCondition">Điều khoản sử dụng</system:String>
+  <system:String x:Key="registerAnd">và</system:String>
+  <system:String x:Key="registerPrivacy">Thông tin bảo mật</system:String>
+  <system:String x:Key="registerRegisterButton">Đăng kí</system:String>
+  <system:String x:Key="registerAllFieldAreRequire">Tất cả các trường cần phải điền</system:String>
+  <system:String x:Key="registerFirstName">Tên</system:String>
+  <system:String x:Key="registerUserName">Tài khoản</system:String>
+  <system:String x:Key="registerPassword">Mật khẩu</system:String>
+  <system:String x:Key="registerReEnterPassword">Nhập lại mật khẩu</system:String>
+  <system:String x:Key="registerLastName">Họ</system:String>
+  <system:String x:Key="registerEmail">Địa chỉ Email</system:String>
+  <system:String x:Key="registerCountry">Quốc gia</system:String>
+  <system:String x:Key="registerDateOfBirth">Ngày sinh</system:String>
+  <system:String x:Key="registerGender">Giới tính</system:String>
+  <system:String x:Key="forgotPasswordTitle">Quên mật khẩu</system:String>
+  <system:String x:Key="forgotPasswordBanner">Cấp lại mật khẩu</system:String>
+  <system:String x:Key="forgotPasswordHint">Email hoặc Champion Online ID</system:String>
+  <system:String x:Key="forgotPasswordButton">Cấp lại mật khẩu</system:String>
+  <system:String x:Key="ok">Đồng ý</system:String>
+  <system:String x:Key="language">Tiếng Việt</system:String>
+</ResourceDictionary>
